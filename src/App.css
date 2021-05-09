@@ -1,0 +1,10 @@
+.text-gray{
+    color: #9b9b9b;
+}
+
+.brand-logo{
+    font-size:30px !important;
+    font-weight: 700 !important;
+    color: black !important;
+    letter-spacing: 3px;
+}

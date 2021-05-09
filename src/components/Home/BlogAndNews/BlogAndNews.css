@@ -1,5 +1,11 @@
+.BlogAndNews{
+  background-color: #fafafa;
+  margin: 90px 0;
+}
 .blog-news{
     border-bottom: 1px solid lightgray;
-    padding: 20px;
+    padding: 20px 0;
     margin-bottom: 50px;
+    text-decoration: none;
+    color: #949393;
 }

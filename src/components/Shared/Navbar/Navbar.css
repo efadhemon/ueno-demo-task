@@ -1,0 +1,15 @@
+
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.navbar .nav-item .nav-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: black !important;
+}
+
+.navbar .nav-item .nav-link.active{
+    border-bottom: 2px solid red;
+}
